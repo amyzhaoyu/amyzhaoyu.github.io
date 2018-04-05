@@ -1,4 +1,4 @@
-I am Senior Director of Product Strategy and Data Science in the [Audience Science](https://science.viacom.com) team at Viacom, where I lead the design and development of visual data science platforms that enable data-driven decisions across all of Viacom’s portfolio brands.
+I am Senior Director of Product Strategy and Data Science in the [Audience Science](https://science.viacom.com) team at Viacom, where I lead the design and development of visual data science platforms that enable [data-driven decisions across all of Viacom’s portfolio brands](https://www.hbs.edu/faculty/Pages/item.aspx?num=53776).
 
 I graduated from the [Jerome Fisher Program in Management and Technology](http://www.upenn.edu/fisher/) at the University of Pennsylvania, receiving undergraduate degrees in Computer Science and Economics with concentrations in Finance and Operations and Information Management. I completed my M.S. in Media Arts and Sciences as part of the [Macro Connections](http://macroconnections.media.mit.edu/) group at [MIT Media Lab](http://media.mit.edu/), where I was advised by [César Hidalgo](http://www.chidalgo.com/).
 
