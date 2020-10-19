@@ -4,4 +4,6 @@ I graduated from the [Jerome Fisher Program in Management and Technology](http:/
 
 Press: [Billboard](https://www.billboard.com/articles/events/vma/7941923/viacom-vma-best-new-artist-interactive-tool), [NYTimes Magazine](http://www.nytimes.com/2014/03/16/magazine/whos-more-famous-than-jesus.html?ref=magazine&_r=1), [Scientific American](http://www.scientificamerican.com/article/the-data-visualization-revolution/), [MIT Tech Review](http://www.technologyreview.com/view/525461/the-last-20-inches-datas-treacherous-journey-from-the-screen-to-the-mind/), [Fast Company](http://www.fastcodesign.com/3027817/mit-media-lab-maps-historys-biggest-celebrities), and [flowingdata](http://flowingdata.com/2014/03/19/an-exploration-of-cultural-production/).
 
-Recent Talks: [SXSW](https://schedule.sxsw.com/2018/events/PP74756), [DSS](https://datascience.salon/ny9-18/), [Digital Transformation Summit @ HBS](https://digital.hbs.edu/events/digital-transformation-summit/)
+Recent Talks: [SXSW](https://schedule.sxsw.com/2018/events/PP74756), [DSS 2018](https://datascience.salon/ny9-18/), [Digital Transformation Summit @ HBS](https://digital.hbs.edu/events/digital-transformation-summit/)
+
+Upcoming Events: [Data Science Salon 2020](https://www.datascience.salon/media-advertising-and-entertainment/) (virtual), [LeadDev 2020 - Placing Engineering at the heart of innovation](https://leaddev.com/series/placing-engineering-heart-innovation) (virtual)
