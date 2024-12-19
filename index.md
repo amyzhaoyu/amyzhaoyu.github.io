@@ -1,4 +1,8 @@
-I am VP of Product Strategy in the [Data & Decision Sciences](https://science.viacom.com) group at Paramount, where I lead the design and development of platforms that enable [data-driven decisions across all of Paramount’s portfolio brands](https://www.hbs.edu/faculty/Pages/item.aspx?num=53776).
+Currently: COO @ [Chibitronics](https://chibitronics.com). 
+
+> Chibitronics is a hardware edtech startup that is on a mission to make technology as accessible, intuitive and creative as a set of crayons. Based on founder and CEO [Jie Qi](https://technolojie.com/)’s research on paper circuits at MIT Media Lab, Chibitronics creates award-winning educational toolkits that blend high-tech innovation with arts and crafts.  We are empowering a new generation of artists, engineers, and creators by building technologies that reimagine paper as a medium for coding, engineering, and creative expression.
+
+Previously, I was VP of Product Strategy in the [Data & Decision Sciences](https://science.viacom.com) group at Paramount, where I led the design and development of platforms that enabled [data-driven decisions across all of Paramount’s portfolio brands](https://www.hbs.edu/faculty/Pages/item.aspx?num=53776).
 
 I graduated from the [Jerome Fisher Program in Management and Technology](http://www.upenn.edu/fisher/) at the University of Pennsylvania with a joint B.S. in Computer Science and Economics. I completed my M.S. at [MIT Media Lab](http://media.mit.edu/), where I was advised by [César Hidalgo](http://www.chidalgo.com/) as part of the [Macro Connections](http://macroconnections.media.mit.edu/) group. My [research](https://scholar.google.com/citations?user=bKTFloEAAAAJ&hl=en) focused on utilizing digital data to create visual engines for understanding social phenomena and informing decisions that affect innovation, business, and public policy. 
 
