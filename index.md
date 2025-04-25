@@ -1,6 +1,4 @@
-Currently: COO @ [Chibitronics](https://chibitronics.com). 
-
-> Chibitronics is a hardware edtech startup that is on a mission to make technology as accessible, intuitive and creative as a set of crayons. Based on founder and CEO [Jie Qi](https://technolojie.com/)’s research on paper circuits at MIT Media Lab, Chibitronics creates award-winning educational toolkits that blend high-tech innovation with arts and crafts.  We are empowering a new generation of artists, engineers, and creators by building technologies that reimagine paper as a medium for coding, engineering, and creative expression.
+Most recently COO @ [Chibitronics](https://chibitronics.com), a hardware edtech startup on a mission to make technology as accessible, intuitive and creative as a set of crayons. 
 
 Previously, I was VP of Product Strategy in the [Data & Decision Sciences](https://science.viacom.com) group at Paramount, where I led the design and development of platforms that enabled [data-driven decisions across all of Paramount’s portfolio brands](https://www.hbs.edu/faculty/Pages/item.aspx?num=53776).
 
