@@ -1,4 +1,4 @@
-Most recently COO @ [Chibitronics](https://chibitronics.com), a hardware edtech startup on a mission to make technology as accessible, intuitive and creative as a set of crayons.
+Most recently COO @ [Chibitronics](https://chibitronics.com), a hardware edtech startup on a mission to make technology as accessible, intuitive and creative as a set of crayons. 
 
 Previously, I was VP of Product Strategy in the [Data & Decision Sciences](https://science.viacom.com) group at Paramount, where I led the design and development of platforms that enabled [data-driven decisions across all of Paramount’s portfolio brands](https://www.hbs.edu/faculty/Pages/item.aspx?num=53776).
 
